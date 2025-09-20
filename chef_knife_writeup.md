@@ -5,22 +5,22 @@ Now that a rough budget is established, here are some considerations, please let
 
 ## Western- or Japanese-style knife?
 ### Western knives
-- Use softer steels and have thicker edge geometry 
+- Uses softer steels and have thicker edge geometry
 - Suitable for heavy use and abuse, but need more frequent sharpening
 - General sharpening is easier and a honing steel can be used to maintain a decent edge
 - Cannot be made exceptionally sharp
 - Not cool, very utilitarian
 ### Japanese knives
-- Use quite hard steels and have a very thin edge
+- Uses quite hard steels and have a very thin edge
 - Exceptional at slicing and maintaining sharpness, but very prone to chips and damage
 - Sharpening is more difficult, and honing steels are more likely to chip the knife than maintain the edge
 - Can be sharpened to a ridiculous degree
 - Super cool and trendy and available with fancy damascus patterns and nifty handles
 ### Conclusion
-Based on general cool factor and the example's Nick sent, a Japanese-style knife is the way to go. This is especially true if we choose one with some Western-style features like slightly lower hardness steel and more friendly edge geometry
+Based on general cool factor and the examples Nick sent, a Japanese-style knife is the way to go. This is especially true if we choose one with some Western-style features like slightly lower hardness steel and more friendly edge geometry
 
 ## Budget Breakdown
-Because of the limitations I listed for Japanese knives, I think that it would be worth getting one that is a bit cheaper, but we can also get some other gifts that will make up for its deficiencies such as an end-grain cutting board (to protect the edge) and whetstone (also Nick likes more gifts more than less gifts). Here are some options various price ranges:
+Because of the limitations I listed for Japanese knives, I think that it would be worth getting one that is a bit cheaper, but we can also get some other gifts that will make up for its deficiencies such as an end-grain cutting board (to protect the edge) and whetstone (also, Nick likes more gifts more than less gifts). Here are some options in various price ranges:
 
 ### $200-$250
 
@@ -32,7 +32,7 @@ Because of the limitations I listed for Japanese knives, I think that it would b
 - 60 HRC, medium-high hardness that can take some abuse without chipping
 ##### Cons:
 - Eats entire budget
-- Damascus pattern in subtle
+- Damascus pattern is subtle
 - Very large
 
 #### Takayuki Tsuchime Damascus 8.25" Gyuto, Blue Stabilized Handle 
@@ -90,7 +90,7 @@ This budget level leaves room for a cutting board or a good whetstone
 - Higher hardness for better edge retention (61 HRC)
 - On sale
 ##### Cons:
-- Higher hardness and very thin edge geometry mean more maintenence and care, and necessity for good cutting board
+- Higher hardness and very thin edge geometry mean more maintenance and care, and necessity for good cutting board
 
 ### $100-$149
 This price range will allow for the addition of a cutting board and whetstone
@@ -103,7 +103,7 @@ This price range will allow for the addition of a cutting board and whetstone
 - Highly recommended brand
 ##### Cons:
 - Not damascus
-- Boring japanese-style handle
+- Boring Japanese-style handle
 - 7" blade (8.25" sold out, may be available elsewhere)
 
 #### Takamura VG10 Tsuchime 6.7" Santoku 
@@ -114,7 +114,7 @@ This price range will allow for the addition of a cutting board and whetstone
 - Highly recommended brand
 ##### Cons:
 - Not damascus
-- Boring wester-style handle
+- Boring Western-style handle
 - <7" blade
 
 #### MAC Chef Series 8" Chef's Knife
@@ -133,7 +133,7 @@ This price range will allow for the addition of a cutting board and whetstone
 ##### Pros:
 - Inexpensive
 - Cool looking
-- High hardness (61-61 HRC) for a super good edge
+- High hardness (61-62 HRC) for a super good edge
 - Will develop patina over time
 ##### Cons:
 - Carbon steel and soft iron cladding construction will require frequent maintenance and lots of care
@@ -141,7 +141,7 @@ This price range will allow for the addition of a cutting board and whetstone
 - High hardness steel may chip
 
 ### $50-$99
--These cheap knives may require some major trade-offs in coolness and quality, but may be a good choice for a beginner home chef. Will leave plenty of room in the budget for accessories such as a nice cutting board and whestone(s).
+These cheap knives may require some major trade-offs in coolness and quality, but may be a good choice for a beginner home chef. Will leave plenty of room in the budget for accessories such as a nice cutting board and whetstone(s).
 
 #### Tojiro Basic 8" Chef's Knife
 - https://cutleryandmore.com/products/tojiro-basic-chefs-knife-40847
