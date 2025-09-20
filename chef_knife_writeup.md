@@ -41,6 +41,7 @@ Because of the limitations I listed for Japanese knives, I think that it would b
 - Beautiful handle, very cool blade finish
 - Good brand reputation
 - Good level of hardness (60-61 HRC)
+- *Note:* also available with green handle
 ##### Cons:
 - Eats entire budget
 
@@ -53,6 +54,7 @@ This budget level leaves room for a cutting board or a good whetstone
 ##### Pros
 - See pros for `Takayuki Tsuchime Damascus 8.25" Gyuto, Blue Stabilized Handle`
 - Good price range
+- *Note:* also available with ebony handle
 ##### Cons
 - Less cool handle
 
