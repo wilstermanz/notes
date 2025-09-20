@@ -13,45 +13,45 @@ Now that a rough budget is established, here are some considerations, please let
   - [Budget Breakdown](#budget-breakdown)
     - [$200-$250](#200-250)
       - [Tojiro Classic Damascus 10.6" Chef's Knife](#tojiro-classic-damascus-106-chefs-knife)
-        - [Pros:](#pros)
-        - [Cons:](#cons)
+        - [Pros](#pros)
+        - [Cons](#cons)
       - [Takayuki Tsuchime Damascus 8.25" Gyuto, Blue Stabilized Handle](#takayuki-tsuchime-damascus-825-gyuto-blue-stabilized-handle)
-        - [Pros:](#pros-1)
-        - [Cons:](#cons-1)
+        - [Pros](#pros-1)
+        - [Cons](#cons-1)
     - [$150-$199](#150-199)
       - [Takayuki Tsuchime Damascus 8.25" Gyuto](#takayuki-tsuchime-damascus-825-gyuto)
         - [Pros](#pros-2)
         - [Cons](#cons-2)
       - [MAC Professional 8.5" Chef's Knife](#mac-professional-85-chefs-knife)
-        - [Pros:](#pros-3)
-        - [Cons:](#cons-3)
+        - [Pros](#pros-3)
+        - [Cons](#cons-3)
       - [Tojiro Classic Damascus 8.25" Chef's Knife](#tojiro-classic-damascus-825-chefs-knife)
-        - [Pros:](#pros-4)
-        - [Cons:](#cons-4)
+        - [Pros](#pros-4)
+        - [Cons](#cons-4)
         - [Alternates:](#alternates)
       - [Miyabi Kaizen II 8" Chef's Knife](#miyabi-kaizen-ii-8-chefs-knife)
-        - [Pros:](#pros-5)
-        - [Cons:](#cons-5)
+        - [Pros](#pros-5)
+        - [Cons](#cons-5)
     - [$100-$149](#100-149)
       - [Tojiro Hammered 7" Gyuto Chef's Knife](#tojiro-hammered-7-gyuto-chefs-knife)
-        - [Pros:](#pros-6)
-        - [Cons:](#cons-6)
+        - [Pros](#pros-6)
+        - [Cons](#cons-6)
       - [Takamura VG10 Tsuchime 6.7" Santoku](#takamura-vg10-tsuchime-67-santoku)
-        - [Pros:](#pros-7)
-        - [Cons:](#cons-7)
+        - [Pros](#pros-7)
+        - [Cons](#cons-7)
       - [MAC Chef Series 8" Chef's Knife](#mac-chef-series-8-chefs-knife)
-        - [Pros:](#pros-8)
-        - [Cons:](#cons-8)
+        - [Pros](#pros-8)
+        - [Cons](#cons-8)
       - [Hatsukokoro Kurogane Aogami #2 Kurouchi 8.25" Gyuto](#hatsukokoro-kurogane-aogami-2-kurouchi-825-gyuto)
-        - [Pros:](#pros-9)
-        - [Cons:](#cons-9)
+        - [Pros](#pros-9)
+        - [Cons](#cons-9)
     - [$50-$99](#50-99)
       - [Tojiro Basic 8" Chef's Knife](#tojiro-basic-8-chefs-knife)
-        - [Pros:](#pros-10)
-        - [Cons:](#cons-10)
+        - [Pros](#pros-10)
+        - [Cons](#cons-10)
       - [Chinese-made Japanese-style knives](#chinese-made-japanese-style-knives)
-        - [Pros:](#pros-11)
-        - [Cons:](#cons-11)
+        - [Pros](#pros-11)
+        - [Cons](#cons-11)
   - [Accessories](#accessories)
     - [Whetstones](#whetstones)
       - [Shapton Pro](#shapton-pro)
@@ -84,22 +84,22 @@ Because of the limitations I listed for Japanese knives, I think that it would b
 ### $200-$250
 
 #### [Tojiro Classic Damascus 10.6" Chef's Knife](https://cutleryandmore.com/products/tojiro-dp-damascus-chefs-knife-15459)
-##### Pros:
+##### Pros
 - Very big, very cool
 - Highly recommended online
 - 60 HRC, medium-high hardness that can take some abuse without chipping
-##### Cons:
+##### Cons
 - Eats entire budget
 - Damascus pattern is subtle
 - Very large
 
 #### [Takayuki Tsuchime Damascus 8.25" Gyuto, Blue Stabilized Handle](https://cutleryandmore.com/products/takayuki-tsuchime-damascus-gyuto-41683)
-##### Pros:
+##### Pros
 - Beautiful handle, very cool blade finish
 - Good brand reputation
 - Good level of hardness (60-61 HRC)
 - **Note:** also available with [green handle](https://cutleryandmore.com/products/takayuki-tsuchime-damascus-gyuto-41684)
-##### Cons:
+##### Cons
 - Eats entire budget
 
 ### $150-$199
@@ -115,20 +115,20 @@ This budget level leaves room for a cutting board or a good whetstone
 - Less cool handle
 
 #### [MAC Professional 8.5" Chef's Knife](https://cutleryandmore.com/products/mac-professional-chefs-knife-8061)
-##### Pros:
+##### Pros
 - Highly recommended brand
 - Good hardness (60 HRC)
 - Very good, no nonsense knife
-##### Cons:
+##### Cons
 - No damascus or other patterned finish
 - Boring and normal looking
 
 #### [Tojiro Classic Damascus 8.25" Chef's Knife](https://cutleryandmore.com/products/tojiro-dp-damascus-chefs-knife-15457)
-##### Pros:
+##### Pros
 - Highly recommended brand
 - Good hardness (60 HRC)
 - Damascus pattern
-##### Cons:
+##### Cons
 - Damascus pattern is kind of subtle and boring
 - Boring handle
 ##### Alternates:
@@ -140,54 +140,54 @@ This budget level leaves room for a cutting board or a good whetstone
     - 7" santoku version of the above
 
 #### [Miyabi Kaizen II 8" Chef's Knife](https://cutleryandmore.com/products/miyabi-kaizen-ii-chefs-knife-39031)
-##### Pros:
+##### Pros
 - Very flashy damascus pattern
 - Cool handle
 - Higher hardness for better edge retention (61 HRC)
 - On sale
-##### Cons:
+##### Cons
 - Higher hardness and very thin edge geometry mean more maintenance and care, and necessity for good cutting board
 
 ### $100-$149
 This price range will allow for the addition of a cutting board and whetstone
 
 #### [Tojiro Hammered 7" Gyuto Chef's Knife](https://cutleryandmore.com/products/tojiro-dp-hammered-gyuto-chefs-knife-41920)
-##### Pros:
+##### Pros
 - Hammered finish
 - Good hardness (60 HRC)
 - Highly recommended brand
-##### Cons:
+##### Cons
 - Not damascus
 - Boring Japanese-style handle
 - 7" blade (8.25" sold out, may be available elsewhere)
 
 #### [Takamura VG10 Tsuchime 6.7" Santoku](https://cutleryandmore.com/products/takamura-vg10-tsuchime-santoku-42284)
-##### Pros:
+##### Pros
 - Hammered finish
 - Good hardness (60-61 HRC)
 - Highly recommended brand
-##### Cons:
+##### Cons
 - Not damascus
 - Boring Western-style handle
 - <7" blade
 
 #### [MAC Chef Series 8" Chef's Knife](https://cutleryandmore.com/products/mac-chef-series-chefs-knife-8094)
-##### Pros:
+##### Pros
 - Inexpensive (low end of price range)
 - Good hardness (60-61 HRC)
 - Highly recommended brand
-##### Cons:
+##### Cons
 - Not damascus
 - Boring design
 - Ugly logo
 
 #### [Hatsukokoro Kurogane Aogami #2 Kurouchi 8.25" Gyuto](https://cutleryandmore.com/products/hatsukokoro-kurogane-aogami-kurouchi-gyuto-42159)
-##### Pros:
+##### Pros
 - Inexpensive
 - Cool looking
 - High hardness (61-62 HRC) for a super good edge
 - Will develop patina over time
-##### Cons:
+##### Cons
 - Carbon steel and soft iron cladding construction will require frequent maintenance and lots of care
 - Will rust if not dried after each use
 - High hardness steel may chip
@@ -196,11 +196,11 @@ This price range will allow for the addition of a cutting board and whetstone
 These cheap knives may require some major trade-offs in coolness and quality, but may be a good choice for a beginner home chef. Will leave plenty of room in the budget for accessories such as a nice cutting board and whetstone(s).
 
 #### [Tojiro Basic 8" Chef's Knife](https://cutleryandmore.com/products/tojiro-basic-chefs-knife-40847)
-##### Pros:
+##### Pros
 - Very reputable brand known for cost-value ratio
 - Cool design
 - Very inexpensive
-##### Cons:
+##### Cons
 - Kind of boring
 - No damascus or cool finish
 
@@ -212,14 +212,14 @@ These cheap knives may require some major trade-offs in coolness and quality, bu
 - [Sunnecko Damascus Kitchen Knife](https://www.amazon.com/Sunnecko-Damascus-Kitchen-Handle-Professional-Japanese/dp/B09JBQD9S3/ref=sr_1_1_sspa?crid=ZIWNONM8Z5T7&dib=eyJ2IjoiMSJ9.r_SPVgE0wmLY2BvbfrVIW1JfRToGVj1yQ1HzrB_xI5iFy-vs3v6aRorgsae64hqW9NGPNYt9jlzlRTiSG93RkxkL-xpFgc03Q7fmDuH0O5Rm6I9mWwWOQY2fP-9hfaXhgs4-5ULg9GjUHr-vQmeb8XfXL_QSBZWlBVW0fdi_wyh5a9Wjyns9le_Xj4QFkmfOjoziUP5KpSWL1en2KUnOxUsPtqqGPwW0vPjyPqXYq7D2f8IipdX_cyNaklOcC3UlJSMcYeFcvNfF0pN8Cc8YlkfZcIU88Za6ydQbXXDzUHA.8wHaBm36meYo5J2xxGy7dlmO5--Do-gU0bgU9uVqlww&dib_tag=se&keywords=sunnecko&qid=1758394167&sprefix=sunnecko%2Caps%2C147&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 - [Sunnecko Damascus Japanese Stainless Kiritsuke](https://www.amazon.com/Sunnecko-Damascus-Japanese-Stainless-Kiritsuke/dp/B0D9LS46J5?ref_=ast_sto_dp&th=1)
 - [Sunnecko Knife Japanese 9CR18MOV 3-Layered](https://www.amazon.com/Sunnecko-Knife-Japanese-9CR18MOV-3-Layered/dp/B0C8HXRQN7/?_encoding=UTF8&pd_rd_w=K57nr&content-id=amzn1.sym.048a6e3c-8d40-4302-8312-26c626af6738%3Aamzn1.symc.050ea944-f1cf-4610-b462-3b604f2f4082&pf_rd_p=048a6e3c-8d40-4302-8312-26c626af6738&pf_rd_r=7M0H24A0ZDM389HMETXD&pd_rd_wg=5l6yd&pd_rd_r=fdedc953-a46c-44b2-b070-15c5e8b24a66&ref_=pd_hp_d_btf_ci_mcx_mr_ca_id_hp_d&th=1)
-##### Pros:
+##### Pros
 - Very inexpensive, many of these can be found for under $50 with coupons
 - Cool aesthetics
 - Good cost-value ratio
 - Similar Chinese knives test well against name brand knives in the $100-$200 range
 - May be a good, inexpensive first "good knife" option that wouldn't be devastating to damage and can be upgraded later
 - Leaves lots of budgetary room to buy high quality accessories
-##### Cons:
+##### Cons
 - Many Chinese products have poor QC, so quality isn't guaranteed
 - Construction quality may be poor compared more expensive options
 - Lots of unknowns about Chinese products
